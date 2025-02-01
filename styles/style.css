@@ -1,0 +1,257 @@
+.navbar.navbar-expand-lg.bg-body-tertiary {
+    background-color: rgb(238, 233, 233) !important;
+}
+ .nav-link{
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+}
+.navbar-nav .nav-link.active{
+    color: rgb(77, 75, 75)
+}
+
+.navbar-brand img{
+    width: 80px;
+}
+.navbar-toggler {
+    background-color: aquamarine;
+}
+
+
+.nav-link li:hover {
+    background-color: aqua;
+}
+.nav-lis1 :hover {
+background-color: rgb(167, 167, 167);
+}
+
+li {
+    padding: 10px;
+    
+}
+
+
+.navbar.navbar-expand-lg.bg-body-tertiary {
+    display: block !important;
+    text-align: center !important;
+    justify-content: center !important;
+}
+
+.carousel-control-prev.r {
+    width: 30%;
+    margin-top: 21%;
+}
+
+.carousel-control-next.r {
+    width: 30%;
+    margin-top: 21%;
+}
+
+
+#d-blockk-101 {
+display: none;
+}
+
+
+.kk {
+    display: block;
+    text-align: center;
+}
+.d-block.w-100 {
+    display: inline !important;
+}
+@media (max-width: 992px){
+    .d-block.w-100 {
+        display: block !important;
+    }
+    .carousel-item.active img {
+        width: 100% !important;
+    }
+    .collapse.navbar-collapse {
+        display: flex !important;
+        justify-content: center !important;
+    }
+    
+
+}
+
+
+.collapse.navbar-collapse {
+    display: flex !important;
+    justify-content: flex-end !important;
+}
+
+@media(max-width: 992px) {
+    .collapse.navbar-collapse {
+        display: flex !important;
+        justify-content: center !important;
+    }
+    .collapse:not(.show) {
+        display: none !important;
+    }
+}
+
+.accordion-collapse {
+    margin-left: 330px;
+    margin-right: 330px;
+    
+}
+
+.egee {
+display: flex;
+justify-content: center;
+padding-top: 50px;
+    
+}
+
+.d5 {
+    display: flex;
+    justify-content: center;
+}
+.card {
+    margin: 20px;
+}
+@media(max-width: 992px) {
+    .accordion-collapse {
+        margin-left: 100px;
+        margin-right: 100px;
+}
+    .d5 p {
+        font-size: 14px !important;
+    }
+    .accordion-body p {
+        font-size: 20px !important;
+    }
+    .li8 p {
+        font-size: 10px !important;
+    }
+    .card {
+        width: 54rem !important;
+    }
+}
+.p1 {
+    font-size: 20px;
+    display: flex;
+    text-align: justify;
+    justify-content: center;
+    width: 50%;
+    margin-left: 22%;
+    margin-top: 100px;
+    margin-right: 50px;
+}
+.btnt6 {
+    display: flex;
+    margin-top: 50px;
+    margin-left: 22%;
+    margin-bottom: 200px;
+}
+.btnt6 a {
+    text-decoration: none;
+    color: white;
+}
+.carousel-control-prev.im {
+    width: 20%;
+}
+
+.carousel-control-next.im {
+    width: 20%;
+}
+.accordion-body p {
+    font-size: 24px;
+}
+.lil {
+    color: rgb(2, 39, 85);
+    padding: 5px;
+}
+ .img6 img {
+    width: 100%;
+ }
+ .img6 p{
+    font-size: 12px;
+ }
+ .img4 {
+    color: rgb(83, 83, 83);
+ }
+
+ .semka {
+    margin-bottom: 36px;
+    margin-top:  22px;
+ }
+ .accordion-body p {
+    font-size: 24px;
+ }
+ .li8 {
+    font-size: 18px !important;
+    padding: 2px !important;
+ }
+ #p3 {
+    padding-bottom: 8%;
+ }
+ #p4 {
+    margin-bottom: 32px;
+ }
+ #p5 {
+    margin-bottom: 3.5%;
+    margin-top: 3.5%;
+ }
+ #p7{
+    font-size: 12px;
+    color: rgb(77, 74, 74);
+ }
+ a {
+    text-decoration: none;
+    color: black;
+ }
+ #p8 {
+    padding-bottom: 12%;
+ }
+ .card {
+    width: 22rem;
+ }
+ .accordion-body img {
+    border-top: 2px ;
+    border-color: black ;
+    padding: 5px; 
+ }
+ .accordion-item {
+    background-color: rgb(255, 255, 255);
+ }
+ .accordion-body {
+    background-color: rgb(253, 253, 253);
+ }
+.accordion-body h2 {
+    
+        margin-bottom: 3.5%;
+        margin-top: 3.5%;
+    
+ }
+ .accordion-body li {
+    color: rgb(2, 39, 85);
+    padding: 5px;
+ }
+ 
+ #p0{
+    font-size: 20px;
+ }
+ .accordion-body p {
+    text-align: justify;
+ }
+
+ #pp2 {
+    font-size: 26px;
+ }
+.img4{
+    justify-content: center;
+}
+.accordion-collapse {
+    justify-content: center;
+    display: flex;
+
+}
+.img4{
+    justify-content: center;
+    padding-left: 50px;
+    color:black;
+}
+.ooo{
+    padding-left: 180px;
+}
